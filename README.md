@@ -48,8 +48,6 @@ don't really know what to put here but here's links
 
 [mailing list archives](https://marc.info/)
 
-[this page still under construction](https://benghancock.github.io/articles/)
-
 [the name is a pun on procastinated podcasting](https://pspodcasting.net/)
 
 [lobsters](https://lobste.rs/)
@@ -68,17 +66,23 @@ what part of this statement about You do you find untrue
 
 that i "am" something
 
-do you even care about most of these sites
+do you actually care about most of these sites
 
-honestly not really but are occasionally inspire ing
+they're inspire ing but it's not like my religion or smth
 
 have you even written anything l0l n00b
 
-a few scripts and dotfiles cause that's all i need lmao
+i like... i uh wrote a shell script once
 
 what is your coding philosophy
 
-never settle with enterprise webshit, remove and simplify, do some DIY
+i just hate it when computers push me around
+
+(i must ratchet everything down to my understanding)
+
+why you use github exdee you can do better
+
+it's like ~~cancer~~ social media for code i love it
 
 can you be made useful?
 
