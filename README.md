@@ -36,7 +36,7 @@ don't really know what to put here but here's links
 
 [the fedora project](https://fedoraproject.org/)
 
-[a simple lightweight distribution that tries to keep it simple](https://archlinux.org)
+[the art of linux](https://archlinux.org)
 
 [clear linux* project](https://clearlinux.org/)
 
@@ -68,7 +68,9 @@ that i "am" something
 
 do you actually care about most of these sites
 
-they're inspire ing but it's not like my religion or smth
+they're incredibly inspire ing ~~but~~ it's ~~not like~~ my religion ~~or smth~~
+
+who am i kidding, bad sofware makes me hurt and disgust
 
 have you even written anything l0l n00b
 
