@@ -10,51 +10,53 @@ don't really know what to put here but here's links
 
 [snap your code up](https://teddit.net/r/programmingcirclejerk)
 
-[flipnote studio is back](https://www.sudomemo.net/)
+[flipnote studio is back](https://www.sudomemo.net)
 
-[plan 9 from user space](https://9fans.github.io/)
+[plan 9 from user space](https://9fans.github.io)
 
-[swtchboard](https://swtch.com/)
+[swtchboard](https://swtch.com)
 
-[search engine for the classic web](https://wiby.me/)
+[search engine for the classic web](https://wiby.me)
 
-[drew devault's blog](https://drewdevault.com/)
+[drew devault's blog](https://drewdevault.com)
 
-[the hacker's forge](https://sourcehut.org/)
+[the hacker's forge](https://sourcehut.org)
 
-[a digital playground and personal logging system](https://xxiivv.com/)
+[a digital playground and personal logging system](https://xxiivv.com)
 
-[a small artist collective](https://100r.co/)
+[a small artist collective](https://100r.co)
 
-[justine tunney's web page](https://justine.lol/)
+[justine tunney's web page](https://justine.lol)
 
-[a free multi-platform 4.4bsd-based unix-like operating system](https://www.openbsd.org/)
+[a free multi-platform 4.4bsd-based unix-like operating system](https://www.openbsd.org)
 
-[information about the creation of operating systems](https://www.osdev.org/)
+[information about the creation of operating systems](https://www.osdev.org)
 
-[the independent video game community](https://gbatemp.net/)
+[the independent video game community](https://gbatemp.net)
 
-[the fedora project](https://fedoraproject.org/)
+[the fedora project](https://fedoraproject.org)
 
 [the art of linux](https://archlinux.org)
 
-[clear linux* project](https://clearlinux.org/)
+[clear linux* project](https://clearlinux.org)
 
 [welcome to mnt research](https://mntre.com)
 
-[your browser, your way](https://www.palemoon.org/)
+[your browser, your way](https://www.palemoon.org)
 
-[a more sustainable approach to computer and network technology](https://permacomputing.net/)
+[a more sustainable approach to computer and network technology](https://permacomputing.net)
 
-[mailing list archives](https://marc.info/)
+[mailing list archives](https://marc.info)
 
-[the name is a pun on procastinated podcasting](https://pspodcasting.net/)
+[the name is a pun on procastinated podcasting](https://pspodcasting.net)
 
-[lobsters](https://lobste.rs/)
+[lobsters](https://lobste.rs)
 
-[the place for minecraft mods plugins shaders and packs](https://modrinth.com/)
+[the place for minecraft mods plugins shaders and packs](https://modrinth.com)
 
-[the homepage of ben hancock](https://benghancock.github.io/)
+[the homepage of ben hancock](https://benghancock.github.io)
+
+[posts - codemadness](https://codemadness.org)
 
 q&a time
 
