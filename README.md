@@ -86,7 +86,7 @@ i just hate it when computers push me around
 
 why you use github exdee you can do better
 
-it's like ~~cancer~~ social media for code i love it
+it's like ~~cancer~~ youtube for code i love it
 
 can you be made useful?
 
