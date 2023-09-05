@@ -88,6 +88,10 @@ why you use github exdee you can do better
 
 it's like ~~cancer~~ youtube for code i love it
 
+actually nvm gh is throwing stupid ai ads in my face
+
+my move to litterally anywhere else has hastened
+
 can you be made useful?
 
 no
