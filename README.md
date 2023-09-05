@@ -90,7 +90,7 @@ it's like ~~cancer~~ youtube for code i love it
 
 actually nvm gh is throwing stupid ai ads in my face
 
-my move to litterally anywhere else has hastened
+my move to literally anywhere else has hastened
 
 can you be made useful?
 
