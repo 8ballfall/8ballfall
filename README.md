@@ -34,9 +34,9 @@ don't really know what to put here but here's links
 
 [the independent video game community](https://gbatemp.net)
 
-[the art of linux](https://archlinux.org)
+[the art of linux](https://artixlinux.org)
 
-[the cooler debian](https://devuan.org)
+[the cooler ubuntu](https://linuxmint.com)
 
 [clear linux* project](https://clearlinux.org)
 
