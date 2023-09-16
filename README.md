@@ -38,11 +38,11 @@ don't really know what to put here but here's links
 
 [the cooler ubuntu](https://linuxmint.com)
 
-[clear linux* project](https://clearlinux.org)
-
 [welcome to mnt research](https://mntre.com)
 
 [your browser, your way](https://www.palemoon.org)
+
+[a custom version of firefox focused on privacy security and freedom](https://librewolf.net)
 
 [a more sustainable approach to computer and network technology](https://permacomputing.net)
 
@@ -50,13 +50,15 @@ don't really know what to put here but here's links
 
 [the name is a pun on procastinated podcasting](https://pspodcasting.net)
 
-[lobsters](https://lobste.rs)
+[a computing-focused community centered around link aggregation and discussion](https://lobste.rs)
 
 [the place for minecraft mods plugins shaders and packs](https://modrinth.com)
 
 [the homepage of ben hancock](https://benghancock.github.io)
 
 [posts - codemadness](https://codemadness.org)
+
+[a new internet technology supporting an electronic library of interconnected text documents](https://geminiprotocol.net)
 
 q&a time
 
