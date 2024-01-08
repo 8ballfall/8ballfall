@@ -1,6 +1,6 @@
 am tiny robot
 
-don't really know what to put here but here's links
+here's links
 
 [random contrarian insurgent organization](https://cat-v.org)
 
@@ -8,7 +8,7 @@ don't really know what to put here but here's links
 
 [software that sucks less](https://suckless.org)
 
-[snap your code up](https://teddit.net/r/programmingcirclejerk)
+[snap your code up](https://old.reddit.com/r/programmingcirclejerk)
 
 [flipnote studio is back](https://www.sudomemo.net)
 
@@ -17,8 +17,6 @@ don't really know what to put here but here's links
 [swtchboard](https://swtch.com)
 
 [search engine for the classic web](https://wiby.me)
-
-[drew devault's blog](https://drewdevault.com)
 
 [the hacker's forge](https://sourcehut.org)
 
@@ -42,7 +40,7 @@ don't really know what to put here but here's links
 
 [your browser, your way](https://www.palemoon.org)
 
-[a custom version of firefox focused on privacy security and freedom](https://librewolf.net)
+[a custom version of firefox focused on priv sec & freedom](https://librewolf.net)
 
 [a more sustainable approach to computer and network technology](https://permacomputing.net)
 
@@ -52,10 +50,6 @@ don't really know what to put here but here's links
 
 [a computing-focused community centered around link aggregation and discussion](https://lobste.rs)
 
-[the place for minecraft mods plugins shaders and packs](https://modrinth.com)
-
-[the homepage of ben hancock](https://benghancock.github.io)
-
 [posts - codemadness](https://codemadness.org)
 
 [a new internet technology supporting an electronic library of interconnected text documents](https://geminiprotocol.net)
@@ -64,7 +58,7 @@ q&a time
 
 favorite exorcises??\
 
-kissing hugging and crying into my shark plushie, stimming, showering
+stimming and cuddling my shark plushie
 
 what part of this statement about You do you find untrue
 
@@ -72,27 +66,23 @@ that i "am" something
 
 do you actually care about most of these sites
 
-they're incredibly inspire ing ~~but~~ it's ~~not like~~ my religion ~~or smth~~
-
-who am i kidding, bad sofware makes me hurt and disgust
+they're incredible inspireing ~~but~~ it's ~~not like~~ my religion ~~or smth~~
 
 have you even written anything l0l n00b
 
-i like... i uh wrote a shell script once
+i like... i uh wrote a shell script once.
 
-what is your coding philosophy
+once i copied and pasted stuff into a suckless program, one day i going learn real C
 
-i just hate it when computers push me around
+what is your "coding" philosophy
+
+[i just hate it when computers push me around](https://lobste.rs/s/flxrfa/you_will_not_understand_this_on_leaving)
 
 (i must ratchet everything down to my understanding)
 
-why you use github exdee you can do better
+why you use github ecksdee you can do better
 
-it's like ~~cancer~~ youtube for code i love it
-
-actually nvm gh is throwing stupid ai ads in my face
-
-my move to literally anywhere else has hastened
+it's like youtube for code
 
 can you be made useful?
 
